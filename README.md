@@ -25,3 +25,20 @@
 ```bash
 git clone https://github.com/Eagle1-strong/BlackPyReconX.git
 cd BlackPyReconX
+
+Créer un environnement virtuel:
+
+python -m venv venv
+venv\Scripts\activate  # Windows
+
+Installer les dépendances:
+pip install -r requirements.txt
+
+Interface Telegram:
+python main.py --bot
+
+Ligne de commande :
+exemple: python main.py --target 187.15.224.50 --osint --scan --report
+
+Avertissement légal:
+BlackPyReconX est un outil d’audit à usage pédagogique et professionnel uniquement. Toute utilisation non autorisée contre des systèmes tiers est strictement interdite. Vous êtes seul responsable de son usage.
