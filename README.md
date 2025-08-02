@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕷️ BlackPyReconX
 
 > Un outil d'audit et de reconnaissance offensif complet en Python, avec interface Telegram intégrée !
@@ -42,3 +43,6 @@ exemple: python main.py --target 187.15.224.50 --osint --scan --report
 
 Avertissement légal:
 BlackPyReconX est un outil d’audit à usage pédagogique et professionnel uniquement. Toute utilisation non autorisée contre des systèmes tiers est strictement interdite. Vous êtes seul responsable de son usage.
+=======
+# BlackPyReconX
+>>>>>>> e29136c5c8c538cf6631480da493868974dc44a1
