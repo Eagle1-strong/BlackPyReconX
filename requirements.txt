@@ -1,0 +1,9 @@
+requests
+shodan
+python-nmap
+bs4
+pynput
+pyautogui
+opencv-python
+fpdf
+markdown

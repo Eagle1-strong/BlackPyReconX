@@ -1,0 +1,87 @@
+
+--- OSINT pour nysafrica.com ---
+
+[HOSTSEARCH - HACKERTARGET]
+nysafrica.com,100.24.208.97
+mail.nysafrica.com,185.98.131.31
+
+
+[IPINFO.IO]
+{
+  "ip": "100.24.208.97",
+  "hostname": "staticip2.multiscreensite.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS14618 Amazon.com, Inc.",
+  "postal": "20147",
+  "timezone": "America/New_York"
+}
+
+[IP-API.COM]
+{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Ashburn","zip":"20149","lat":39.0438,"lon":-77.4874,"timezone":"America/New_York","isp":"Amazon.com","org":"AWS EC2 (us-east-1)","as":"AS14618 Amazon.com, Inc.","query":"100.24.208.97"}
+
+[ABUSEIPDB.COM]
+{"data":{"ipAddress":"100.24.208.97","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":1,"countryCode":"US","usageType":"Content Delivery Network","isp":"Amazon Data Services NoVa","domain":"amazon.com","hostnames":["staticip2.multiscreensite.com"],"isTor":false,"totalReports":3,"numDistinctUsers":2,"lastReportedAt":"2025-07-05T15:44:25+00:00"}}
+
+[SHODAN.IO] Erreur : Access denied (403 Forbidden)
+
+--- OSINT pour 205.251.242.103 ---
+
+[IPINFO.IO]
+{
+  "ip": "205.251.242.103",
+  "hostname": "s3-console-us-standard.console.aws.amazon.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "20147",
+  "timezone": "America/New_York"
+}
+
+[IP-API.COM]
+{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Ashburn","zip":"20149","lat":39.0438,"lon":-77.4874,"timezone":"America/New_York","isp":"Amazon.com, Inc.","org":"Amazon Technologies Inc. (us-east-1)","as":"AS16509 Amazon.com, Inc.","query":"205.251.242.103"}
+
+[ABUSEIPDB.COM]
+{"data":{"ipAddress":"205.251.242.103","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":9,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon.com, Inc.","domain":"amazon.com","hostnames":["s3-console-us-standard.console.aws.amazon.com"],"isTor":false,"totalReports":2,"numDistinctUsers":2,"lastReportedAt":"2025-07-30T10:11:43+00:00"}}
+
+[SHODAN.IO]
+IP: 205.251.242.103
+Organisation: Amazon.com, Inc.
+OS: None
+Port: 80
+Banner: HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Fri, 01 Aug 2025 11:32:08 GMT
+Content-Type: t
+Port: 443
+Banner: HTTP/1.1 400 Bad Request
+Server: Server
+Date: Fri, 01 Aug 2025 12:52:42 GMT
+Content-Type: text/ht
+
+
+--- OSINT pour 1.179.112.0 ---
+
+[IPINFO.IO]
+{
+  "ip": "1.179.112.0",
+  "city": "Brussels",
+  "region": "Brussels Capital",
+  "country": "BE",
+  "loc": "50.8505,4.3488",
+  "org": "AS396982 Google LLC",
+  "postal": "1000",
+  "timezone": "Europe/Brussels"
+}
+
+[IP-API.COM]
+{"status":"success","country":"France","countryCode":"FR","region":"IDF","regionName":"Île-de-France","city":"Paris","zip":"75008","lat":48.8804,"lon":2.32697,"timezone":"Europe/Paris","isp":"Google LLC","org":"Sendinblue","as":"AS396982 Google LLC","query":"1.179.112.0"}
+
+[ABUSEIPDB.COM]
+{"data":{"ipAddress":"1.179.112.0","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"BE","usageType":"Data Center\/Web Hosting\/Transit","isp":"Sendinblue SAS","domain":"brevo.com","hostnames":[],"isTor":false,"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+[SHODAN.IO] Erreur : Access denied (403 Forbidden)
